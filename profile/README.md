@@ -1,12 +1,67 @@
-## Hi there 👋
+## 커밋 메시지 규칙
 
-<!--
+우리 프로젝트는 [Conventional Commits](https://www.conventionalcommits.org/ko/v1.0.0/) 규칙을 따릅니다.
 
-**Here are some ideas to get you started:**
+### 1. 커밋 메시지 구조
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+```
+([scope]): 
+
+[body]
+
+[footer]
+```
+
+- **type**: 커밋의 종류 (필수)
+- **scope**: 영향받는 범위/모듈 (선택)
+- **subject**: 변경 요약 (필수, 50자 이내, 명령문, 마침표 생략)
+- **body**: 변경 이유, 상세 설명 (선택, 한 줄 띄우고 작성)
+- **footer**: 이슈 번호, 브레이킹 체인지 등 (선택)
+
+---
+
+### 2. 타입(type) 예시
+
+| 타입      | 설명                   |
+|-----------|------------------------|
+| feat      | 새로운 기능 추가       |
+| fix       | 버그 수정              |
+| docs      | 문서 수정              |
+| style     | 코드 포맷팅 등         |
+| refactor  | 리팩토링               |
+| test      | 테스트 코드 추가/수정  |
+| chore     | 기타 변경(빌드, 설정 등) |
+
+---
+
+### 3. 예시
+
+```
+feat(user): 프로필 이미지 업로드 기능 추가
+
+fix(auth): 로그인 리다이렉트 버그 수정
+
+docs: README에 커밋 규칙 추가
+
+refactor(order): 주문 합계 계산 로직 개선
+
+chore: 패키지 의존성 업데이트
+
+test(cart): 장바구니 할인 로직 테스트 추가
+```
+
+---
+
+### 4. 작성 규칙
+
+- 제목은 **명령문**으로, **50자 이내**로 작성합니다.
+- 제목 끝에 **마침표를 붙이지 않습니다**.
+- 본문이 있을 경우, 제목과 본문 사이에 **한 줄을 띄웁니다**.
+- 본문에는 변경한 이유와 상세 설명을 적습니다.
+- 관련 이슈가 있다면 Footer에 `Fixes #이슈번호` 형식으로 추가합니다.
+
+---
+
+### 5. 참고 링크
+
+- [Conventional Commits 공식 문서](https://www.conventionalcommits.org/ko/v1.0.0/)
