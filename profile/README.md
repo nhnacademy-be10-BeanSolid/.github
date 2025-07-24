@@ -13,6 +13,28 @@
 [BeanSolid-ERD](https://www.erdcloud.com/d/2ZEdTCfsKZoaPrR5z)
 <img width="2097" height="1135" alt="image" src="https://github.com/user-attachments/assets/125b40af-7da4-4a5e-a3fa-3a945851e8de" />
 
+## 🕵️ SonarQube
+> 정적 코드 분석기
+> 
+> 테스트 커버리지 : 80% 이상 지향
+
+### 🖥️ front-end
+<img width="1042" height="366" alt="image" src="https://github.com/user-attachments/assets/277dafaf-727d-4294-9020-52a0e9d273e2" />
+
+### auth-service
+<img width="1039" height="362" alt="image" src="https://github.com/user-attachments/assets/b1dc5db6-8d13-412f-909b-93b2789253c9" />
+
+### gateway-service
+<img width="1035" height="359" alt="image" src="https://github.com/user-attachments/assets/99e9c724-f6bf-4b56-8a8d-155e9043e364" />
+
+### user-api
+<img width="1039" height="365" alt="image" src="https://github.com/user-attachments/assets/55fcf76b-3076-4819-ae3f-529df9f8cd21" />
+
+### book-api
+<img width="1041" height="371" alt="image" src="https://github.com/user-attachments/assets/68a4dc80-8fdf-41c2-a3ef-da75f4af2860" />
+
+### order-api
+
 
 <!--
 
