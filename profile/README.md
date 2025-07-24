@@ -66,6 +66,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springBoot-%236DB33F.svg?style=for-the-badge&logo=springBoot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/springSecurity-%236DB33F.svg?style=for-the-badge&logo=springSecurity&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/springCloud-%236DB33F.svg?style=for-the-badge&logo=springCloud&logoColor=white)
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
