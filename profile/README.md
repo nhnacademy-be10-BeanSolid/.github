@@ -41,7 +41,7 @@
 
 ### Kanban Board
 
-## 🕵️ SonarQube
+## 🕵️ SonarQube - Test Coverage
 > 정적 코드 분석기
 > 
 > 테스트 커버리지 : 80% 이상 지향
