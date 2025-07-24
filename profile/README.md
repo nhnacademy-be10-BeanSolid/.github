@@ -9,7 +9,9 @@
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | <img width="150" height="150" alt="일환님 사진" src="https://github.com/user-attachments/assets/beda955a-1427-42e1-bce9-34865fee5474" /> | <img width="150" height="150" alt="장지엽 사진" src="https://github.com/user-attachments/assets/992630f4-0155-4605-825d-d242be8154a2" /> | <img width="150" height="150" alt="정수님 사진" src="https://github.com/user-attachments/assets/88567598-a6dc-464e-9284-964d48c2cb19" /> | <img width="150" height="150" alt="준식님 사진" src="https://github.com/user-attachments/assets/70e37047-236e-49b2-857f-7f04d95b2a78" /> | <img width="150" height="150" alt="채영님 사진" src="https://github.com/user-attachments/assets/1c4f330e-4482-401b-9c1b-b1c00b480fef" /> | <img width="150" height="150" alt="승민님 사진" src="https://github.com/user-attachments/assets/375628c7-8165-4f4c-a4b3-5323960df3fd" /> | <img width="150" height="150" alt="우민님 사진" src="https://github.com/user-attachments/assets/f68d9456-aa79-49fd-b790-7d4357d4152e" /> |
 
-
+## ERD-Cloud
+[BeanSolid-ERD](https://www.erdcloud.com/d/2ZEdTCfsKZoaPrR5z)
+<img width="2097" height="1135" alt="image" src="https://github.com/user-attachments/assets/125b40af-7da4-4a5e-a3fa-3a945851e8de" />
 
 
 <!--
