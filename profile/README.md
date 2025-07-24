@@ -35,6 +35,8 @@
 [BeanSolid-ERD](https://www.erdcloud.com/d/2ZEdTCfsKZoaPrR5z)
 <img width="2097" height="1135" alt="image" src="https://github.com/user-attachments/assets/125b40af-7da4-4a5e-a3fa-3a945851e8de" />
 
+## 📆 WBS & Kanban Board
+
 ## 🕵️ SonarQube
 > 정적 코드 분석기
 > 
