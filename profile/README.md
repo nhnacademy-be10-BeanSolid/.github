@@ -9,11 +9,14 @@
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | <img width="150" height="150" alt="일환님 사진" src="https://github.com/user-attachments/assets/beda955a-1427-42e1-bce9-34865fee5474" /> | <img width="150" height="150" alt="장지엽 사진" src="https://github.com/user-attachments/assets/992630f4-0155-4605-825d-d242be8154a2" /> | <img width="150" height="150" alt="정수님 사진" src="https://github.com/user-attachments/assets/88567598-a6dc-464e-9284-964d48c2cb19" /> | <img width="150" height="150" alt="준식님 사진" src="https://github.com/user-attachments/assets/70e37047-236e-49b2-857f-7f04d95b2a78" /> | <img width="150" height="150" alt="채영님 사진" src="https://github.com/user-attachments/assets/1c4f330e-4482-401b-9c1b-b1c00b480fef" /> | <img width="150" height="150" alt="승민님 사진" src="https://github.com/user-attachments/assets/375628c7-8165-4f4c-a4b3-5323960df3fd" /> | <img width="150" height="150" alt="우민님 사진" src="https://github.com/user-attachments/assets/f68d9456-aa79-49fd-b790-7d4357d4152e" /> |
 
-## 🔥 CI/CD 파이프라인 구축
+## 🔥 CI/CD 파이프라인 구축 
 <img width="1678" height="488" alt="image" src="https://github.com/user-attachments/assets/80007a0d-1925-497d-afdc-ccfdef496354" />
-먼저, 각 팀원은 feature/ 브랜치와 이슈를 생성하여 자신이 담당한 기능을 개발합니다. 기능 개발이 완료되면, develop 브랜치로 Pull Request를 보내고, 지정된 1~2명의 리뷰어가 코드 리뷰를 진행합니다. 이후 CI 파이프라인에서 빌드와 테스트가 자동으로 실행되며, SonarQube를 활용한 정적 코드 분석과 테스트 커버리지 측정도 함께 수행됩니다. 만약 이 과정에서 실패하면 버그를 수정하고 다시 동일한 절차를 반복합니다. 모든 검증이 통과하면 변경 사항을 main 브랜치에 병합하고, CD를 통해 최종적으로 서비스에 반영합니다.
 
-
+> 먼저, 각 팀원은 feature/ 브랜치와 이슈를 생성하여 자신이 담당한 기능을 개발합니다.
+> 기능 개발이 완료되면, develop 브랜치로 Pull Request를 보내고, 미리 지정한 1~2명의 검토자가 코드 리뷰를 진행합니다.
+> 이후 CI 를 통해 빌드와 테스트가 자동으로 진행되며, SonarQube를 활용한 정적 코드 분석과 테스트 커버리지 측정도 함께 진행됩니다.
+> 만약 이 과정에서 실패하면 버그를 수정한 후 다시 동일한 절차를 반복합니다.
+> 모든 검증이 완료되면 변경 사항을 main 브랜치로 병합하고, CD를 통해 최종적으로 서비스에 반영합니다.
 
 ## 🖼️ ERD-Cloud
 [BeanSolid-ERD](https://www.erdcloud.com/d/2ZEdTCfsKZoaPrR5z)
