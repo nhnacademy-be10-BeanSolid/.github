@@ -37,6 +37,10 @@
 
 ## 📆 WBS & Kanban Board
 
+### Gantt Chart
+
+### Kanban Board
+
 ## 🕵️ SonarQube
 > 정적 코드 분석기
 > 
