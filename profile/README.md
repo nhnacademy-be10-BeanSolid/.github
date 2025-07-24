@@ -1,4 +1,11 @@
-## BeanSolid BookStore
+# 📚 BeanSolid BookStore
+> Spring Boot 와 MySQL 을 이용한 책 판매 웹 서비스
+
+## 📖 도메인
+[BeanSolid-BookStore](https://bookstore-beansolid.store)
+
+## 🙍‍♂️ 팀원
+
 
 <!--
 
