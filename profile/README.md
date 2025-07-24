@@ -12,6 +12,7 @@
 ## 🔥 CI/CD 파이프라인 구축 
 <img width="1678" height="488" alt="image" src="https://github.com/user-attachments/assets/80007a0d-1925-497d-afdc-ccfdef496354" />
 
+>
 > 먼저, 각 팀원은 feature/ 브랜치와 이슈를 생성하여 자신이 담당한 기능을 개발합니다.
 > 기능 개발이 완료되면, develop 브랜치로 Pull Request를 보내고, 미리 지정한 1~2명의 검토자가 코드 리뷰를 진행합니다.
 > 이후 CI 를 통해 빌드와 테스트가 자동으로 진행되며, SonarQube를 활용한 정적 코드 분석과 테스트 커버리지 측정도 함께 진행됩니다.
