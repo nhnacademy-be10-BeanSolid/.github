@@ -8,16 +8,25 @@
 |[나일환](https://github.com/NaIlHwan)|[장지엽](https://github.com/JYCuzz)|[하정수](https://github.com/gkwjdtn975)|[엄준식](https://github.com/mni-js)|
 |:--------:|:--------:|:--------:|:--------:|
 | <img width="200" height="200" alt="일환님 사진" src="https://github.com/user-attachments/assets/beda955a-1427-42e1-bce9-34865fee5474" /> | <img width="200" height="200" alt="장지엽 사진" src="https://github.com/user-attachments/assets/992630f4-0155-4605-825d-d242be8154a2" /> | <img width="200" height="200" alt="정수님 사진" src="https://github.com/user-attachments/assets/88567598-a6dc-464e-9284-964d48c2cb19" /> | <img width="200" height="200" alt="준식님 사진" src="https://github.com/user-attachments/assets/70e37047-236e-49b2-857f-7f04d95b2a78" /> |
-|CI/CD 파이프라인 구축<br>(github action)|사용자 휴면 인증<br>(Redis 활용)|결제 구현<br>(Toss Payments API)|주문 CRUD|
-|전반적인 인프라 구축|회원 CRUD|쿠폰 CRUD||주문 내역 조회|
-|JWT 인증 인가|포인트 CRUD||주문 상태 관리|
-|장바구니 CRUD|포인트 규정 CRUD|
-|비회원 주문 구현|Layout Template 구현<br>(Thymeleaf 기반)|
+|CI/CD 파이프라인 구축<br>(github action)|사용자 휴면 인증<br>(Redis 활용)|결제<br>(Toss Payments API)|주문 CRUD|
+|전반적인 인프라 구축|회원 CRUD|쿠폰 CRUD|주문 내역 조회|
+|JWT 인증 인가|포인트 CRUD|쿠폰 발급<br>(RabbitMQ)|주문 상태 관리|
+|장바구니 CRUD|포인트 규정 CRUD||주문시 포인트 적립|
+|비회원 주문 구현|Layout Template 구현<br>(Thymeleaf 기반)||order-api 명세서|
 |spring cache 적용|
+|페이코 로그인|
+|Auth-service 명세서|
 
 |[윤채영](https://github.com/yooncy123)|[이승민](https://github.com/sminlee123)|[김우민](https://github.com/WooMin-KIM)|
 |:--------:|:--------:|:--------:|
 |<img width="200" height="200" alt="채영님 사진" src="https://github.com/user-attachments/assets/1c4f330e-4482-401b-9c1b-b1c00b480fef" /> | <img width="200" height="200" alt="승민님 사진" src="https://github.com/user-attachments/assets/375628c7-8165-4f4c-a4b3-5323960df3fd" /> | <img width="200" height="200" alt="우민님 사진" src="https://github.com/user-attachments/assets/f68d9456-aa79-49fd-b790-7d4357d4152e" /> |
+|회원 주소 CRUD|도서 CRUD|Welcome쿠폰 발급|
+|회원 등급 CRUD|카테고리 CRUD|Coupon-api 명세서|
+|도서 이미지 관리<br>(Object Storage)|태그 CRUD|
+|도서 좋아요 기능|검색 기능<br>(Elastic Search)|
+|도서 리뷰 CRUD|Book-api 명세서|
+|리뷰 포인트 적립|
+|User-api 명세서|
 
 ## 🔥 CI/CD 파이프라인 구축 
 <img width="1678" height="488" alt="image" src="https://github.com/user-attachments/assets/80007a0d-1925-497d-afdc-ccfdef496354" />
