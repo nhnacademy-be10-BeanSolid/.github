@@ -17,6 +17,7 @@
 |비회원 주문 구현|Layout Template 구현<br>(Thymeleaf 기반)|
 |spring cache 적용|일반 로그인|
 |페이코 로그인|
+|통합 명세서 페이지|
 |Auth-service 명세서|
 
 |[윤채영](https://github.com/yooncy123)|[이승민](https://github.com/sminlee123)|[김우민](https://github.com/WooMin-KIM)|
