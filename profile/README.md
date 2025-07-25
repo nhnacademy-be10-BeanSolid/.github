@@ -2,7 +2,7 @@
 > Spring Boot 와 MySQL 을 이용한 도서 판매 웹 서비스
 
 ## 📖 도메인
-[BeanSolid-BookStore](https://bookstore-beansolid.store)
+[https://bookstore-beansolid.store](https://bookstore-beansolid.store)
 
 ## 🙍‍♂️ 팀원
 |[나일환](https://github.com/NaIlHwan)|[장지엽](https://github.com/JYCuzz)|[하정수](https://github.com/gkwjdtn975)|[엄준식](https://github.com/mni-js)|
