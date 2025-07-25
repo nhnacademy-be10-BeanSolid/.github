@@ -1,5 +1,7 @@
 # 📚 BeanSolid BookStore
 > Spring Boot 와 MySQL 을 이용한 도서 판매 웹 서비스
+>
+> 프로젝트 기간: 2025.06 ~ 2025.07
 
 ## 📖 도메인
 [https://bookstore-beansolid.store](https://bookstore-beansolid.store)
