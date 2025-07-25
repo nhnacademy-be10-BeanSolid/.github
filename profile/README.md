@@ -36,7 +36,7 @@
 <img width="2097" height="1135" alt="image" src="https://github.com/user-attachments/assets/125b40af-7da4-4a5e-a3fa-3a945851e8de" />
 
 ## 📆 RoadMap & Kanban Board
-### Gantt Chart
+### RoadMap
 <img width="2547" height="1060" alt="image" src="https://github.com/user-attachments/assets/1ee21807-2dfe-4c36-b58f-0eb149857d20" />
 
 ### KanBan Board
