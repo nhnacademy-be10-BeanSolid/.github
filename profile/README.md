@@ -20,7 +20,7 @@
 |[윤채영](https://github.com/yooncy123)|[이승민](https://github.com/sminlee123)|[김우민](https://github.com/WooMin-KIM)|
 |:--------:|:--------:|:--------:|
 |<img width="200" height="200" alt="채영님 사진" src="https://github.com/user-attachments/assets/1c4f330e-4482-401b-9c1b-b1c00b480fef" /> | <img width="200" height="200" alt="승민님 사진" src="https://github.com/user-attachments/assets/375628c7-8165-4f4c-a4b3-5323960df3fd" /> | <img width="200" height="200" alt="우민님 사진" src="https://github.com/user-attachments/assets/f68d9456-aa79-49fd-b790-7d4357d4152e" /> |
-|회원 주소 CRUD|도서 CRUD|Welcome쿠폰 발급|
+|회원 주소 CRUD|도서 CRUD|Welcome 쿠폰 발급|
 |회원 등급 CRUD|카테고리 CRUD|Coupon-api 명세서|
 |도서 이미지 관리<br>(Object Storage)|태그 CRUD|
 |도서 좋아요 기능|검색 기능<br>(Elastic Search)|
