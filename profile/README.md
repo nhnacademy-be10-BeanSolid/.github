@@ -12,8 +12,8 @@
 | <img width="200" height="200" alt="일환님 사진" src="https://github.com/user-attachments/assets/beda955a-1427-42e1-bce9-34865fee5474" /> | <img width="200" height="200" alt="장지엽 사진" src="https://github.com/user-attachments/assets/992630f4-0155-4605-825d-d242be8154a2" /> | <img width="200" height="200" alt="정수님 사진" src="https://github.com/user-attachments/assets/88567598-a6dc-464e-9284-964d48c2cb19" /> | <img width="200" height="200" alt="준식님 사진" src="https://github.com/user-attachments/assets/70e37047-236e-49b2-857f-7f04d95b2a78" /> |
 |CI/CD 파이프라인 구축<br>(github action)|사용자 휴면 인증<br>(Redis 활용)|결제<br>(Toss Payments API)|주문 CRUD|
 |전반적인 인프라 구축|회원 CRUD|쿠폰 CRUD|주문 상태 관리|
-|JWT 인증 인가|포인트 내역 CRUD|쿠폰 발급(Welcome, Birth)<br>(RabbitMQ)|order-api 명세서|
-|장바구니 CRUD|포인트 규정 CRUD|쿠폰 발급(도서, 카테고리)|주문시 포인트 적립|
+|JWT 인증 인가|포인트 내역 CRUD|쿠폰 발급(Welcome, Birth)<br>(RabbitMQ)|주문시 포인트 적립|
+|장바구니 CRUD|포인트 규정 CRUD|쿠폰 발급(도서, 카테고리)|Order-api 명세서|
 |비회원 주문 구현|Layout Template 구현<br>(Thymeleaf 기반)|
 |spring cache 적용|일반 로그인|
 |페이코 로그인|
