@@ -13,7 +13,7 @@
 |JWT 인증 인가|포인트 내역 CRUD|쿠폰 발급<br>(RabbitMQ)|주문 상태 관리|
 |장바구니 CRUD|포인트 규정 CRUD||주문시 포인트 적립|
 |비회원 주문 구현|Layout Template 구현<br>(Thymeleaf 기반)||order-api 명세서|
-|spring cache 적용|
+|spring cache 적용|일반 로그인|
 |페이코 로그인|
 |Auth-service 명세서|
 
