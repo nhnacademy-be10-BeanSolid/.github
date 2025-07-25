@@ -35,7 +35,7 @@
 [BeanSolid-ERD](https://www.erdcloud.com/d/2ZEdTCfsKZoaPrR5z)
 <img width="2097" height="1135" alt="image" src="https://github.com/user-attachments/assets/125b40af-7da4-4a5e-a3fa-3a945851e8de" />
 
-## 📆 WBS & Kanban Board
+## 📆 RoadMap & Kanban Board
 
 ### Gantt Chart
 
@@ -61,6 +61,8 @@
 ### 💳 coupon-api
 
 ## 🚀 주요 기능
+
+
 
 ## 🪛 Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
