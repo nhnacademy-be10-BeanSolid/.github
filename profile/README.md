@@ -27,8 +27,8 @@
 |회원 등급 CRUD|카테고리 CRUD|Coupon-api 명세서|
 |리뷰 이미지 관리<br>(Object Storage)|태그 CRUD|
 |도서 좋아요 기능|검색 기능<br>(Elastic Search)|
-|도서 리뷰 CRUD|Book-api 명세서|
-|리뷰 포인트 적립|도서 이미지 관리<br>(Object Storage)|
+|도서 리뷰 CRUD|도서 이미지 관리<br>(Object Storage)|
+|리뷰 포인트 적립|Book-api 명세서|
 |User-api 명세서|
 
 ## 🔥 CI/CD 파이프라인 구축 
