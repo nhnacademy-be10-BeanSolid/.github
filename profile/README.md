@@ -8,7 +8,12 @@
 |[나일환](https://github.com/NaIlHwan)|[장지엽](https://github.com/JYCuzz)|[하정수](https://github.com/gkwjdtn975)|[엄준식](https://github.com/mni-js)|
 |:--------:|:--------:|:--------:|:--------:|
 | <img width="200" height="200" alt="일환님 사진" src="https://github.com/user-attachments/assets/beda955a-1427-42e1-bce9-34865fee5474" /> | <img width="200" height="200" alt="장지엽 사진" src="https://github.com/user-attachments/assets/992630f4-0155-4605-825d-d242be8154a2" /> | <img width="200" height="200" alt="정수님 사진" src="https://github.com/user-attachments/assets/88567598-a6dc-464e-9284-964d48c2cb19" /> | <img width="200" height="200" alt="준식님 사진" src="https://github.com/user-attachments/assets/70e37047-236e-49b2-857f-7f04d95b2a78" /> |
-|테테스트|테스트1|테스트1|테스트2|
+|CI/CD 파이프라인 구축<br>(github action)|사용자 휴면 인증<br>(Redis 활용)|결제 구현<br>(Toss Payments API)|주문 CRUD|
+|전반적인 인프라 구축|회원 CRUD|쿠폰 CRUD||주문 내역 조회|
+|JWT 인증 인가|포인트 CRUD||주문 상태 관리|
+|장바구니 CRUD|포인트 규정 CRUD|
+|비회원 주문 구현|Layout Template 구현<br>(Thymeleaf 기반)|
+|spring cache 적용|
 
 |[윤채영](https://github.com/yooncy123)|[이승민](https://github.com/sminlee123)|[김우민](https://github.com/WooMin-KIM)|
 |:--------:|:--------:|:--------:|
@@ -97,7 +102,7 @@
 - 관리자 차원에서 도서 관리(CRUD) 출판사(CRUD), 저자(CRUD) 구현
 - 도서 외부API(알라딘)을 활용하여 등록 기능 구현
 - TUI Editor를 활용하여 도서 등록 기능 구현
-- Object Storage or Image를 이용하여 도서 이미지 고나리 기능 구현
+- Object Storage or Image를 이용하여 도서 이미지 관리 기능 구현
 - 도서 카테고리 관리(CRUD), 도서 태그 관리(CRUD) 기능 구현
 - 도서 좋아요 기능 구현
 - 도서 선물포장 설정 기능 구현
