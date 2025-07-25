@@ -8,6 +8,7 @@
 |[나일환](https://github.com/NaIlHwan)|[장지엽](https://github.com/JYCuzz)|[하정수](https://github.com/gkwjdtn975)|[엄준식](https://github.com/mni-js)|
 |:--------:|:--------:|:--------:|:--------:|
 | <img width="200" height="200" alt="일환님 사진" src="https://github.com/user-attachments/assets/beda955a-1427-42e1-bce9-34865fee5474" /> | <img width="200" height="200" alt="장지엽 사진" src="https://github.com/user-attachments/assets/992630f4-0155-4605-825d-d242be8154a2" /> | <img width="200" height="200" alt="정수님 사진" src="https://github.com/user-attachments/assets/88567598-a6dc-464e-9284-964d48c2cb19" /> | <img width="200" height="200" alt="준식님 사진" src="https://github.com/user-attachments/assets/70e37047-236e-49b2-857f-7f04d95b2a78" /> |
+|테테스트|테스트1|테스트1|테스트2|
 
 |[윤채영](https://github.com/yooncy123)|[이승민](https://github.com/sminlee123)|[김우민](https://github.com/WooMin-KIM)|
 |:--------:|:--------:|:--------:|
