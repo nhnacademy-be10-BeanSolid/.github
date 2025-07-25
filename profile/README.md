@@ -46,20 +46,26 @@
 > 정적 코드 분석기
 > 
 > 테스트 커버리지 : 80% 이상 지향
-
 ### 🖥️ front-end
+<img width="1046" height="364" alt="image" src="https://github.com/user-attachments/assets/51024dc1-b92a-4bdc-b324-b8ef71a6dde6" />
 
 ### 🔐 auth-service
+<img width="1045" height="367" alt="image" src="https://github.com/user-attachments/assets/d6939d17-4ca3-476b-8660-a7eb728fc1e8" />
 
 ### 🚪 gateway-service
+<img width="1045" height="365" alt="image" src="https://github.com/user-attachments/assets/16ae2143-db62-43ca-8daf-0e77aa44d4d4" />
 
 ### 🧍 user-api
+<img width="1045" height="366" alt="image" src="https://github.com/user-attachments/assets/9c3bfd09-86f9-4fc0-b31a-f5749585a0c8" />
 
 ### 📕 book-api
+<img width="1044" height="367" alt="image" src="https://github.com/user-attachments/assets/0481e876-b066-497d-9daf-130a630b6c4f" />
 
 ### 🛍️ order-api
+<img width="1047" height="366" alt="image" src="https://github.com/user-attachments/assets/92e99b85-e0bf-4a4a-bfec-2730ba9bb4d6" />
 
 ### 💳 coupon-api
+<img width="1045" height="367" alt="image" src="https://github.com/user-attachments/assets/42395ea1-bd56-49a5-a011-dbe2ed128490" />
 
 ## 🚀 주요 기능
 ### 💻 인프라
