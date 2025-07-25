@@ -42,7 +42,7 @@
 > - CI/CD 전략으로 GitHub Actions을 사용하였습니다.
 
 ## 🛰️ System Architecture
-<img width="1319" height="660" alt="image" src="https://github.com/user-attachments/assets/8385711e-fc6a-4e2b-9b5c-eeb8cd81544b" />
+<img width="1667" height="836" alt="image" src="https://github.com/user-attachments/assets/2db6e8e0-f404-4ce7-898c-d0d3b7e0124c" />
 
 > - 클라이언트의 요청이 먼저 cloudFlare 를 통해 보안이 강화된 상태로 nginx 서버로 들어오고, 로드밸런서를 통해 Round Robin 방식으로 2개의 frontend 로 전달됩니다.  
 > - 각각의 api 들은 모두 eureka server 에 등록되어있으며 frontend 에서 각각의 api 로 요청을 보낼땐 Gateway-service 를 통해 적절히 라우팅되며 Gateway 에서도 Round RObin 방식으로 로드밸런싱하여 요청을 전달합니다.  
