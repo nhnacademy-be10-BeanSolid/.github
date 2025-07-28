@@ -19,6 +19,7 @@
 |OAuth2 로그인(페이코)|
 |통합 명세서 페이지|
 |Auth-service 명세서|
+|Config-server 구현|
 
 |[윤채영](https://github.com/yooncy123)|[이승민](https://github.com/sminlee123)|[김우민](https://github.com/WooMin-KIM)|
 |:--------:|:--------:|:--------:|
