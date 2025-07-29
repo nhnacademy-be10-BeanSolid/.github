@@ -16,7 +16,7 @@
 |장바구니 CRUD|포인트 규정 CRUD|쿠폰 발급(도서, 카테고리)|Order-api 명세서|
 |비회원 주문 구현|Layout Template 구현<br>(Thymeleaf 기반)|
 |spring cache 적용|일반 로그인|
-|OAuth2 로그인(페이코)|
+|OAuth2 로그인(페이코)|회원가입 및 리뷰작성 시 포인트 적립|
 |통합 명세서 페이지|
 |Auth-service 명세서|
 |Config-server 구현|
