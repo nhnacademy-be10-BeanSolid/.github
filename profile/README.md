@@ -6,6 +6,8 @@
 ## 📖 도메인
 [https://bookstore-beansolid.store](https://bookstore-beansolid.store)
 
+> 소개영상: https://youtu.be/ALeLIxgdOBU
+
 ## 🙍‍♂️ 팀원
 |[나일환](https://github.com/NaIlHwan)|[장지엽](https://github.com/JYCuzz)|[하정수](https://github.com/gkwjdtn975)|[엄준식](https://github.com/mni-js)|
 |:--------:|:--------:|:--------:|:--------:|
