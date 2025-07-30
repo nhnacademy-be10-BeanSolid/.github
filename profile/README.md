@@ -33,7 +33,7 @@
 |User-api 명세서|
 
 ## 🔥 CI/CD 파이프라인 구축 
-<img width="1678" height="488" alt="image" src="https://github.com/user-attachments/assets/80007a0d-1925-497d-afdc-ccfdef496354" />
+<img width="1720" height="496" alt="image" src="https://github.com/user-attachments/assets/02a667aa-fa46-4759-8296-9f1c91878fa0" />
 
 > - 먼저, 각 팀원은 feature/ 브랜치와 이슈를 생성하여 자신이 담당한 기능을 개발합니다.  
 > - 기능 개발이 완료되면, develop 브랜치로 Pull Request를 보내고, 미리 지정한 1~2명의 검토자가 코드 리뷰를 진행합니다.  
