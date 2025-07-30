@@ -4,8 +4,8 @@
 > 프로젝트 기간: 2025.06.02 ~ 2025.07.25
 
 ## 📖 도메인
-[https://bookstore-beansolid.store](https://bookstore-beansolid.store)
-
+> 도메인: [https://bookstore-beansolid.store](https://bookstore-beansolid.store)
+>
 > 소개영상: https://youtu.be/ALeLIxgdOBU
 
 ## 🙍‍♂️ 팀원
